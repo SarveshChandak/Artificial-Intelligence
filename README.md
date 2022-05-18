@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarvesh Chandak
-- 👀 I’m interested in learning anything, let it be programming language or soft skills. My curiosity is always on peak
+- 👀 I’m interested in learning anything, let it be something related to programming or anything else. My curiosity is always on peak
 - 🌱 I’m currently persuing my B.Tech from VIT Chennai
 
 <!---
